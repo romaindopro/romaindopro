@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @romaindopro
 - 👀 I’m interested in developping my skills
 - 🌱 I’m currently learning in 3W Academy
-- 💞️ I’m looking to collaborate on my project and others
-- 📫 How to reach me ? say my name 3 times in front of a miror.
+- 💞️ I’m looking a opportunity to progress 
+- 📫 How to reach me ? romaindo.pro@gmail.com
 
 <!---
 romaindopro/romaindopro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
